@@ -1,4 +1,4 @@
-# sysGear
+# Micro Tasks
 traineeTestCases
 task1 - done;
 task2 - done;
